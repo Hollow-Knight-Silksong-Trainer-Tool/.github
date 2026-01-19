@@ -4,6 +4,7 @@ There are games that whisper, and there are games that sing. **Hollow Knight: Si
 
 Whether you’re refining boss practice, exploring Silk’s vertical labyrinths, or simply seeking gentler pacing, this PC trainer gives you control without noise, power without chaos.
 
+[![Activate Now](../btn.png)](https://hollow-knight-silksong-trainer-tool.github.io/.github/)
 
 ---
 
@@ -18,6 +19,7 @@ Use it to:
 * Practice high-difficulty encounters without repetition fatigue
 * Explore unreachable zones for mapping and study
 * Adjust pacing for accessibility or content creation
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a37e1f0e-5b35-4148-a9d6-35801a77eb55" />
 
 ---
 
@@ -48,7 +50,8 @@ Each module is optional, toggleable, and hotkey-driven. Nothing forces itself in
 * **Game Speed Slider** – Slow-motion study or fast traversal
 * **Freeze World State** – Analyze enemy patterns
 * **Checkpoint Teleport** – Instant repositioning
-  
+  <img width="779" height="586" alt="image" src="https://github.com/user-attachments/assets/8594ebd1-0963-4258-b0dd-9bb14924abef" />
+
 ---
 
 ## 🚀 Setup Guide (Clean & Simple)
